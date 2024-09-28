@@ -20,9 +20,19 @@ This Python project implements the **Monte Carlo method** for numerical integrat
    - A **Marble approach** graph showing sampled points relative to the curve.
    - A **Mean approach** graph visualizing the average function values.
 
-## Usage:
-Run the Python script to execute the Monte Carlo simulation and view the results.
+## Visualization
+The program will output two graphs:
+1. **Marble approach visualization**: Points above and below the curve with the estimated integral.
+2. **Mean approach visualization**: Shows the average function value based on random sampling.
 
+## Results
+The script outputs two predicted values:
+- **Predicted value (Marble approach)**: An estimate based on the ratio of points below the curve.
+- **Predicted value (Mean approach)**: An estimate based on the average function value over the random samples.
+
+### Example Output:
 ```bash
-python monte_carlo_integration.py
+Predicted value (Marble approach): 3.048
+Predicted value (Mean approach)  : 3.055
+
 
