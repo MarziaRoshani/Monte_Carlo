@@ -35,4 +35,6 @@ The script outputs two predicted values:
 Predicted value (Marble approach): 7.004825181786274
 Predicted value  (Mean approach): 7.145464817151772
 
+![Image](https://github.com/MarziaRoshani/Monte_Carlo/blob/main/Figure_1.png?raw=true)
+
 
