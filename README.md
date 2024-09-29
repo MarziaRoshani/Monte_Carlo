@@ -35,6 +35,7 @@ The script outputs two predicted values:
 Predicted value (Marble approach): 7.004825181786274
 Predicted value  (Mean approach): 7.145464817151772
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Figure_1.png
+](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
