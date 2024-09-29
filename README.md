@@ -32,7 +32,7 @@ The script outputs two predicted values:
 
 ### Example Output:
 ```bash
-Predicted value (Marble approach): 3.048
-Predicted value (Mean approach)  : 3.055
+Predicted value (Marble approach): 7.004825181786274
+Predicted value  (Mean approach): 7.145464817151772
 
 
