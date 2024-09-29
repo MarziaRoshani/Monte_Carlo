@@ -36,7 +36,3 @@ The script outputs two predicted values:
 ```bash
 Predicted value (Marble approach): 7.004825181786274
 Predicted value  (Mean approach): 7.145464817151772
-
-
-
-
