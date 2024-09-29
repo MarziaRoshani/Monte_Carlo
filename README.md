@@ -1,5 +1,5 @@
 # Monte_Carlo
-# Monte Carlo Method for Numerical Integration
+## Monte Carlo Method for Numerical Integration
 
 This Python project implements the **Monte Carlo method** for numerical integration, using random sampling to estimate the area under a curve for any given function (in this example, `e^x` is used, but the function can be changed easily).
 
