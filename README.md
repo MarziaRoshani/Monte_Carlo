@@ -25,12 +25,13 @@ The program will output two graphs:
 1. **Marble approach visualization**: Points above and below the curve with the estimated integral.
 2. **Mean approach visualization**: Shows the average function value based on random sampling.
 
+![Figure_1](https://github.com/user-attachments/assets/f067c68d-c7f4-40ae-8d25-63133a16f20c)
+
+
 ## Results
 The script outputs two predicted values:
 - **Predicted value (Marble approach)**: An estimate based on the ratio of points below the curve.
 - **Predicted value (Mean approach)**: An estimate based on the average function value over the random samples.
-
-![Figure_1](https://github.com/user-attachments/assets/f067c68d-c7f4-40ae-8d25-63133a16f20c)
 
 ### Example Output:
 ```bash
